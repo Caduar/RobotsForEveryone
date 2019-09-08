@@ -1,0 +1,652 @@
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World 2
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World 2
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World 2
+AllOutput Verbose: 0 : New workflow 1, Hello World
+AllOutput Verbose: 0 : New workflow 1, Hello World 2
+AllOutput Verbose: 0 : New workflow 3, El servicio 'Service1' tiene cero extremos de aplicación (no infraestructura). Esto puede deberse a que no se encontró ningún archivo de configuración para la aplicación, a que no se encontró ningún elemento de servicio coincidente con el nombre del servicio en el archivo de configuración, o bien a que no se definió ningún extremo en el elemento de servicio.   en System.ServiceModel.Description.DispatcherBuilder.EnsureThereAreApplicationEndpoints(ServiceDescription description)
+   en System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   en System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   en System.ServiceModel.Activities.WorkflowServiceHost.InitializeRuntime()
+   en System.ServiceModel.ServiceHostBase.OnBeginOpen()
+   en System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   en System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   en System.ServiceModel.Channels.CommunicationObject.Open()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowServiceHostRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\Execution\WorkflowServiceHostRunner.cs:línea 66
+AllOutput Verbose: 0 : Demo, Carácter no válido en la codificación proporcionada. línea 55, posición 127.   en System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   en System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   en System.Xml.XmlTextReaderImpl.InvalidCharRecovery(Int32& bytesCount, Int32& charsCount)
+   en System.Xml.XmlTextReaderImpl.GetChars(Int32 maxCharsCount)
+   en System.Xml.XmlTextReaderImpl.ReadData()
+   en System.Xml.XmlTextReaderImpl.ParseAttributeValueSlow(Int32 curPos, Char quoteChar, NodeData attr)
+   en System.Xml.XmlTextReaderImpl.ParseAttributes()
+   en System.Xml.XmlTextReaderImpl.ParseElement()
+   en System.Xml.XmlTextReaderImpl.ParseElementContent()
+   en System.Xml.XmlTextReaderImpl.Read()
+   en System.Xaml.XmlCompatibilityReader.Read()
+   en MS.Internal.Xaml.Parser.XamlScanner.DoXmlRead()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_StartElement>d__7.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<Parse>d__4.MoveNext()
+   en MS.Internal.Xaml.NodeStreamSorter.ReadAheadToEndOfAttributes()
+   en MS.Internal.Xaml.NodeStreamSorter.ReadAheadAndSortCtorProperties()
+   en MS.Internal.Xaml.NodeStreamSorter.MoveNext()
+   en System.Xaml.XamlXmlReader.Read()
+   en System.Activities.XamlIntegration.DynamicActivityXamlReader.Read()
+   en System.Xaml.XamlServices.Transform(XamlReader xamlReader, XamlWriter xamlWriter, Boolean closeWriter)
+   en System.Xaml.XamlServices.Load(XamlReader xamlReader)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(XamlReader xamlReader, ActivityXamlServicesSettings settings)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(XmlReader xmlReader, ActivityXamlServicesSettings settings)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(Stream stream, ActivityXamlServicesSettings settings)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(Stream stream)
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebugger.LoadAndExecute() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebugger.cs:línea 42
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebuggerBase.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebuggerBase.cs:línea 109
+AllOutput Verbose: 0 : Demo, Carácter no válido en la codificación proporcionada. línea 55, posición 127.   en System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   en System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   en System.Xml.XmlTextReaderImpl.InvalidCharRecovery(Int32& bytesCount, Int32& charsCount)
+   en System.Xml.XmlTextReaderImpl.GetChars(Int32 maxCharsCount)
+   en System.Xml.XmlTextReaderImpl.ReadData()
+   en System.Xml.XmlTextReaderImpl.ParseAttributeValueSlow(Int32 curPos, Char quoteChar, NodeData attr)
+   en System.Xml.XmlTextReaderImpl.ParseAttributes()
+   en System.Xml.XmlTextReaderImpl.ParseElement()
+   en System.Xml.XmlTextReaderImpl.ParseElementContent()
+   en System.Xml.XmlTextReaderImpl.Read()
+   en System.Xaml.XmlCompatibilityReader.Read()
+   en MS.Internal.Xaml.Parser.XamlScanner.DoXmlRead()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_StartElement>d__7.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementContent>d__12.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_ElementBody>d__8.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<P_Element>d__5.MoveNext()
+   en MS.Internal.Xaml.Parser.XamlPullParser.<Parse>d__4.MoveNext()
+   en MS.Internal.Xaml.NodeStreamSorter.ReadAheadToEndOfAttributes()
+   en MS.Internal.Xaml.NodeStreamSorter.ReadAheadAndSortCtorProperties()
+   en MS.Internal.Xaml.NodeStreamSorter.MoveNext()
+   en System.Xaml.XamlXmlReader.Read()
+   en System.Activities.XamlIntegration.DynamicActivityXamlReader.Read()
+   en System.Xaml.XamlServices.Transform(XamlReader xamlReader, XamlWriter xamlWriter, Boolean closeWriter)
+   en System.Xaml.XamlServices.Load(XamlReader xamlReader)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(XamlReader xamlReader, ActivityXamlServicesSettings settings)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(XmlReader xmlReader, ActivityXamlServicesSettings settings)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(Stream stream, ActivityXamlServicesSettings settings)
+   en System.Activities.XamlIntegration.ActivityXamlServices.Load(Stream stream)
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebugger.LoadAndExecute() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebugger.cs:línea 42
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebuggerBase.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebuggerBase.cs:línea 109
+AllOutput Verbose: 0 : New workflow 3, 2
+AllOutput Verbose: 0 : New workflow 3, 2
+AllOutput Verbose: 0 : New workflow 3, 2
+AllOutput Verbose: 0 : New workflow 3, 6
+AllOutput Verbose: 0 : New workflow 3, 6
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "workflowsdir" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.WorkflowInspectionServices.CacheMetadata(Activity rootActivity, LocationReferenceEnvironment hostEnvironment)
+   en System.Activities.WorkflowInspectionServices.CacheMetadata(Activity rootActivity)
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebugger.LoadAndExecute() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebugger.cs:línea 44
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebuggerBase.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebuggerBase.cs:línea 109
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "workflowsdir" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.WorkflowInspectionServices.CacheMetadata(Activity rootActivity, LocationReferenceEnvironment hostEnvironment)
+   en System.Activities.WorkflowInspectionServices.CacheMetadata(Activity rootActivity)
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebugger.LoadAndExecute() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebugger.cs:línea 44
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebuggerBase.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebuggerBase.cs:línea 109
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "workflowsDir" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.WorkflowInspectionServices.CacheMetadata(Activity rootActivity, LocationReferenceEnvironment hostEnvironment)
+   en System.Activities.WorkflowInspectionServices.CacheMetadata(Activity rootActivity)
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebugger.LoadAndExecute() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebugger.cs:línea 44
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowDebuggerBase.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowDebuggerBase.cs:línea 109
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "workflowsDir" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "workflowsDir" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, 5
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, No se puede encontrar una parte de la ruta de acceso 'C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\%%worflowsDir\Probando suma.xaml'.   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, No se puede encontrar una parte de la ruta de acceso 'C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\%worflowsDir\Probando suma.xaml'.   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, No se puede encontrar una parte de la ruta de acceso 'C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\%%\Probando suma.xaml'.   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : Ejecutor, 5
+AllOutput Verbose: 0 : Ejecutor, Se encontraron los siguientes errores al procesar el árbol de flujo de trabajo:
+'DynamicActivity': La implementación privada de la actividad '1: DynamicActivity' tiene el siguiente error de validación:   Failed to load workflow, Environment variable "C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Probando suma.xaml" not defined   en System.Activities.Validation.ActivityValidationServices.ThrowIfViolationsExist(IList`1 validationErrors, ExceptionReason reason)
+   en System.Activities.Hosting.WorkflowInstance.ValidateWorkflow(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.Hosting.WorkflowInstance.RegisterExtensionManager(WorkflowInstanceExtensionManager extensionManager)
+   en System.Activities.WorkflowApplication.EnsureInitialized()
+   en System.Activities.WorkflowApplication.Enqueue(InstanceOperation operation, Boolean push)
+   en System.Activities.WorkflowApplication.InternalRun(TimeSpan timeout, Boolean isUserRun)
+   en System.Activities.WorkflowApplication.Run()
+   en Microsoft.Consulting.WorkflowStudio.Execution.WorkflowRunner.Run() en C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\Execution\WorkflowRunner.cs:línea 71
+AllOutput Verbose: 0 : New workflow 1, Text is hola Mundo, TestCode is False, Option is OptionA
+AllOutput Verbose: 0 : New workflow 1, Text is Hello perras, TestCode is True, Option is OptionB
+AllOutput Verbose: 0 : New workflow 1, No se puede cargar el archivo o ensamblado 'FlaUI.Core, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null' ni una de sus dependencias. Se necesita un ensamblado con nombre seguro. (Excepción de HRESULT: 0x80131044)   en MyActivityLibrary.MyActivity.Execute(NativeActivityContext context)
+   en System.Activities.NativeActivity`1.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, No se puede cargar el archivo o ensamblado 'FlaUI.Core, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null' ni una de sus dependencias. El sistema no puede encontrar el archivo especificado.   en MyActivityLibrary2.MyActivity.Execute(NativeActivityContext context)
+   en System.Activities.NativeActivity`1.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El nombre de la ventana es
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en lambda_method(Closure , ActivityContext )
+   en Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   en System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   en System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   en System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   en System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   en System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en lambda_method(Closure , ActivityContext )
+   en Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   en System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   en System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   en System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   en System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   en System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El nombre es:
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en lambda_method(Closure , ActivityContext )
+   en Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   en System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   en System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   en System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   en System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   en System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Sin título: Bloc de notas
+AllOutput Verbose: 0 : New workflow 1, Sin título: Bloc de notas
+AllOutput Verbose: 0 : New workflow 1, Sin título: Bloc de notas
+AllOutput Verbose: 0 : New workflow 1, Sin título: Bloc de notas
+AllOutput Verbose: 0 : New workflow 1, No se puede cargar el archivo o ensamblado 'Interop.UIAutomationClient, Version=4.5.0.0, Culture=neutral, PublicKeyToken=null' ni una de sus dependencias. El sistema no puede encontrar el archivo especificado.   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context)
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El sistema no puede encontrar el archivo especificado   en System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   en System.Diagnostics.Process.Start()
+   en System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   en FlaUI.Core.Application.Launch(ProcessStartInfo processStartInfo)
+   en FlaUI.Core.Application.Launch(String executable)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 49
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, El proceso ha terminado y la información solicitada no está disponible.   en System.Diagnostics.Process.EnsureState(State state)
+   en System.Diagnostics.Process.get_MainWindowHandle()
+   en FlaUI.Core.Application.<WaitWhileMainHandleIsMissing>b__29_0()
+   en FlaUI.Core.Tools.Retry.While(Func`1 whilePredicate, TimeSpan timeout, Nullable`1 retryInterval)
+   en FlaUI.Core.Application.WaitWhileMainHandleIsMissing(Nullable`1 waitTimeout)
+   en FlaUI.Core.Application.GetMainWindow(AutomationBase automation, Nullable`1 waitTimeout)
+   en LaunchProgramActivity.LaunchProgram.Execute(NativeActivityContext context) en C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\MyActivity.cs:línea 52
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, holi
+AllOutput Verbose: 0 : New workflow 1, holi
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en lambda_method(Closure , ActivityContext )
+   en Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   en System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   en System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   en System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   en System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   en System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name:    en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context)
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name:    en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context)
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name:    en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context)
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 149
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 145
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 149
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 149
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 149
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 147
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 147
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 147
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: calculadora   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: calc.exe   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: calc   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: Calculadora   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: Calculadora   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 157
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: Sin título: Bloc de notas   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: Sin título: Bloc de notas   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Unable to find process with name: Sin título: Bloc de notas   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Los procesos de 32 bits no pueden tener acceso a los módulos de un proceso de 64 bits.   en System.Diagnostics.NtProcessManager.GetModuleInfos(Int32 processId, Boolean firstModuleOnly)
+   en System.Diagnostics.NtProcessManager.GetFirstModuleInfo(Int32 processId)
+   en System.Diagnostics.Process.get_MainModule()
+   en FlaUI.Core.Application.Attach(Process process)
+   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, The requested pattern 'Invoke [#10000]' is not supported   en FlaUI.Core.BasicAutomationElementBase.GetNativePattern[T](PatternId pattern)
+   en FlaUI.Core.AutomationPattern`2.get_Pattern()
+   en FlaUI.Core.AutomationElements.PatternElements.InvokeAutomationElement.get_InvokePattern()
+   en FlaUI.Core.AutomationElements.PatternElements.InvokeAutomationElement.Invoke()
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 170
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)Native pattern is null   en FlaUI.Core.BasicAutomationElementBase.GetNativePattern[T](PatternId pattern)
+AllOutput Verbose: 0 : New workflow 1, Los procesos de 32 bits no pueden tener acceso a los módulos de un proceso de 64 bits.   en System.Diagnostics.NtProcessManager.GetModuleInfos(Int32 processId, Boolean firstModuleOnly)
+   en System.Diagnostics.NtProcessManager.GetFirstModuleInfo(Int32 processId)
+   en System.Diagnostics.Process.get_MainModule()
+   en FlaUI.Core.Application.Attach(Process process)
+   en FlaUI.Core.Application.Attach(String executable, Int32 index)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 87
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Se produjo una excepción de tipo 'FlaUI.Core.Exceptions.NoClickablePointException'.   en FlaUI.Core.BasicAutomationElementBase.GetClickablePoint()
+   en FlaUI.Core.AutomationElements.Infrastructure.AutomationElement.PerformMouseAction(Boolean moveMouse, Action action)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 174
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 174
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Se produjo una excepción de tipo 'FlaUI.Core.Exceptions.NoClickablePointException'.   en FlaUI.Core.BasicAutomationElementBase.GetClickablePoint()
+   en FlaUI.Core.AutomationElements.Infrastructure.AutomationElement.PerformMouseAction(Boolean moveMouse, Action action)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 174
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 174
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 174
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Se produjo una excepción de tipo 'FlaUI.Core.Exceptions.NoClickablePointException'.   en FlaUI.Core.BasicAutomationElementBase.GetClickablePoint()
+   en FlaUI.Core.AutomationElements.Infrastructure.AutomationElement.PerformMouseAction(Boolean moveMouse, Action action)
+   en ClickProgramActivity.ClickProgram.Execute(NativeActivityContext context) en D:\Proyectos .net\ClickActividad\ClickProgramLibrary\MyActivity.cs:línea 174
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en GetTextProgramActivity.GetText.Execute(NativeActivityContext context) en D:\Proyectos .net\GetTextActividad\GetTextProgramLibrary\MyActivity.cs:línea 147
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, Referencia a objeto no establecida como instancia de un objeto.   en GetTextProgramActivity.GetText.Execute(NativeActivityContext context) en D:\Proyectos .net\GetTextActividad\GetTextProgramLibrary\MyActivity.cs:línea 147
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, AutomationElement 'AutomationId:CalculatorResults, Name:Se muestra 0, ControlType:texto, FrameworkId:XAML' supports neither ValuePattern or TextPattern   en FlaUI.Core.AutomationElements.TextBox.get_Text()
+   en GetTextProgramActivity.GetText.Execute(NativeActivityContext context) en D:\Proyectos .net\GetTextActividad\GetTextProgramLibrary\MyActivity.cs:línea 151
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, AutomationElement 'AutomationId:CalculatorResults, Name:Se muestra 0, ControlType:texto, FrameworkId:XAML' supports neither ValuePattern or TextPattern   en FlaUI.Core.AutomationElements.TextBox.get_Text()
+   en GetTextProgramActivity.GetText.Execute(NativeActivityContext context) en D:\Proyectos .net\GetTextActividad\GetTextProgramLibrary\MyActivity.cs:línea 151
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : New workflow 1, AutomationElement 'AutomationId:CalculatorResults, Name:Se muestra 0, ControlType:texto, FrameworkId:XAML' supports neither ValuePattern or TextPattern   en FlaUI.Core.AutomationElements.TextBox.get_Text()
+   en GetTextProgramActivity.GetText.Execute(NativeActivityContext context) en D:\Proyectos .net\GetTextActividad\GetTextProgramLibrary\MyActivity.cs:línea 151
+   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 0
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 0
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora, No se puede cargar el archivo o ensamblado 'FirebaseNet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' ni una de sus dependencias. El sistema no puede encontrar el archivo especificado.   en LogsWeb.RegistrarLogs.Execute(CodeActivityContext context)
+   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora, Se muestra 89
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  9
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  0
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  0
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72
+AllOutput Verbose: 0 : AbrirCalculadora,  8
+AllOutput Verbose: 0 : AbrirCalculadora, *
+AllOutput Verbose: 0 : AbrirCalculadora, Nueve
+AllOutput Verbose: 0 : AbrirCalculadora,  72

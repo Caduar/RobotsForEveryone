@@ -1,0 +1,108 @@
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\bin\Debug\WorkflowStudio.exe.config
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\bin\Debug\WorkflowStudio.exe
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\bin\Debug\WorkflowStudio.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\bin\Debug\AvalonDock.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\bin\Debug\AvalonDock.Themes.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\bin\Debug\AvalonDock.xml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.csprojAssemblyReference.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\Views\ValidationErrorsUserControl.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\App.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio_Content.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio_MarkupCompile.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio_MarkupCompile.lref
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\Views\ValidationErrorsUserControl.baml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.g.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Resources.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Strings.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.csproj.GenerateResource.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.csproj.CoreCompileInputs.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.csproj.CopyComplete
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.exe
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\C#\obj\x86\Debug\WorkflowStudio.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\WorkflowStudio.exe.config
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\WorkflowStudio.exe
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\AvalonDock.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\AvalonDock.Themes.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\AvalonDock.xml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\Views\MainWindow.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\Views\ValidationErrorsUserControl.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\App.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio_Content.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio_MarkupCompile.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio_MarkupCompile.lref
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\Views\MainWindow.baml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\Views\ValidationErrorsUserControl.baml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.g.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Resources.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Strings.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csproj.GenerateResource.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csproj.CoreCompileInputs.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csproj.CopyComplete
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.exe
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\WorkflowStudio.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csprojAssemblyReference.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\MyActivityLibrary2.Design.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\MyActivityLibrary2.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\MyActivityLibrary2.Design.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\FlaUI.Core.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\FlaUI.UIA3.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\FlaUI.Core.xml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\El propio para iniciar\C#\bin\Debug\FlaUI.UIA3.xml
+D:\Proyectos .net\El propio para iniciar\C#\bin\Debug\WorkflowStudio.exe.config
+D:\Proyectos .net\El propio para iniciar\C#\bin\Debug\WorkflowStudio.exe
+D:\Proyectos .net\El propio para iniciar\C#\bin\Debug\WorkflowStudio.pdb
+D:\Proyectos .net\El propio para iniciar\C#\bin\Debug\AvalonDock.dll
+D:\Proyectos .net\El propio para iniciar\C#\bin\Debug\AvalonDock.Themes.dll
+D:\Proyectos .net\El propio para iniciar\C#\bin\Debug\AvalonDock.xml
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\Views\MainWindow.g.cs
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\Views\ValidationErrorsUserControl.g.cs
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\App.g.cs
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio_Content.g.cs
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio_MarkupCompile.cache
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio_MarkupCompile.lref
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\Views\MainWindow.baml
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\Views\ValidationErrorsUserControl.baml
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.g.resources
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Resources.resources
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Strings.resources
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csproj.GenerateResource.cache
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csproj.CoreCompileInputs.cache
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.csproj.CopyComplete
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.exe
+D:\Proyectos .net\El propio para iniciar\C#\obj\x86\Debug\WorkflowStudio.pdb
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\WorkflowStudio.exe.config
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\WorkflowStudio.exe
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\WorkflowStudio.pdb
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\AvalonDock.dll
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\AvalonDock.Themes.dll
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\FlaUI.Core.dll
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\FlaUI.UIA3.dll
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\Interop.UIAutomationClient.dll
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\AvalonDock.xml
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\FlaUI.Core.xml
+D:\Proyectos .net\RobotsForEveryone\bin\Debug\FlaUI.UIA3.xml
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.csprojAssemblyReference.cache
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\Views\MainWindow.g.cs
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\Views\ValidationErrorsUserControl.g.cs
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\App.g.cs
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio_Content.g.cs
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio_MarkupCompile.cache
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio_MarkupCompile.lref
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\Views\MainWindow.baml
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\Views\ValidationErrorsUserControl.baml
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.g.resources
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Resources.resources
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\Microsoft.Consulting.WorkflowStudio.Properties.Strings.resources
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.csproj.GenerateResource.cache
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.csproj.CoreCompileInputs.cache
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.csproj.CopyComplete
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.exe
+D:\Proyectos .net\RobotsForEveryone\obj\x86\Debug\WorkflowStudio.pdb
