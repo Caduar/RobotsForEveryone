@@ -10,6 +10,8 @@ https://docs.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/re
 
 ![alt text](https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/R4E%20MainWindow.PNG)
 
+### Tecnologías utilizadas
+
 El objetivo de este proyecto es utilizar este IDE para crear todo un entorno de automatización basado en actividades, las actividades son .dll que se pueden añadir al proyecto mediante la interfaz gráfica o por a través del código.
 Para crear las actividades de automatización existen muchas ayudas, en lo personal para automatizaciones de escritorio utilizo FLAUI y para las automatizaciones web se espera utilizar selenium
 
@@ -19,7 +21,10 @@ Para crear las actividades de automatización existen muchas ayudas, en lo perso
 Existen dos tipos de actividades, las actividades con diseño y las actividades normales, crear una actividad con diseño requiere mucho más tiempo y saber utilizar Windos Presentation Foundations (WPF). En el proyecto se encuentra una carpeta llamada “CustomActivitiesExamples \FirstCustomActivity”, este es ejemplo de cómo crear una actividad simple.
 En la carpeta “CustomActivitiesExamples\LaunchProgram” se encuentra un ejemplo de cómo crear una actividad con diseño.
 
+### ¿Cómo editar el IDE?
 Para editar el IDE consulta nuestra wiki:
-* Pendiente por actulizar
+* Pendiente por actulizar.
+
+### ¿Cómo crear una actividad personalizada?
 Para crear actividades personalizadas consulta nuestra wiki:
 * Pendiente por actulizar
