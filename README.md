@@ -39,4 +39,4 @@ PD: para añadir la actividad y probar sin editar el código, solamente se da cl
 ![alt text](https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/Referencia%20a%C3%B1adida.PNG)
 
 
-Hecho con <img src="https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/Corazon.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" /> en Colombia
+Hecho con <img src="https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/Corazon.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" /> en Colombia <img src="https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/ColombiaFlag.png" alt="IMAGE ALT TEXT HERE" width="20" height="20" />
