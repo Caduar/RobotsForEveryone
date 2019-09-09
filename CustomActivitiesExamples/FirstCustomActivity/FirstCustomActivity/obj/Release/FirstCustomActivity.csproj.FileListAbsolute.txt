@@ -1,0 +1,17 @@
+C:\Users\Ts\AppData\Local\Temporary Projects\FirstCustomActivity\bin\Release\FirstCustomActivity.dll
+C:\Users\Ts\AppData\Local\Temporary Projects\FirstCustomActivity\bin\Release\FirstCustomActivity.pdb
+C:\Users\Ts\AppData\Local\Temporary Projects\FirstCustomActivity\obj\Release\FirstCustomActivity.csprojAssemblyReference.cache
+C:\Users\Ts\AppData\Local\Temporary Projects\FirstCustomActivity\obj\Release\FirstCustomActivity.csproj.CoreCompileInputs.cache
+C:\Users\Ts\AppData\Local\Temporary Projects\FirstCustomActivity\obj\Release\FirstCustomActivity.dll
+C:\Users\Ts\AppData\Local\Temporary Projects\FirstCustomActivity\obj\Release\FirstCustomActivity.pdb
+C:\Users\Ts\source\repos\FirstCustomActivity\FirstCustomActivity\bin\Release\FirstCustomActivity.dll
+C:\Users\Ts\source\repos\FirstCustomActivity\FirstCustomActivity\bin\Release\FirstCustomActivity.pdb
+C:\Users\Ts\source\repos\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.csprojAssemblyReference.cache
+C:\Users\Ts\source\repos\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.csproj.CoreCompileInputs.cache
+C:\Users\Ts\source\repos\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.dll
+C:\Users\Ts\source\repos\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.pdb
+D:\Proyectos .net\FirstCustomActivity\FirstCustomActivity\bin\Release\FirstCustomActivity.dll
+D:\Proyectos .net\FirstCustomActivity\FirstCustomActivity\bin\Release\FirstCustomActivity.pdb
+D:\Proyectos .net\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.csproj.CoreCompileInputs.cache
+D:\Proyectos .net\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.dll
+D:\Proyectos .net\FirstCustomActivity\FirstCustomActivity\obj\Release\FirstCustomActivity.pdb

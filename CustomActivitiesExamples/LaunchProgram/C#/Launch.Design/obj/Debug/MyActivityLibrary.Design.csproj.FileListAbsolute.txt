@@ -1,0 +1,13 @@
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\MyActivityLibrary.Design.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\MyActivityLibrary.Design.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csprojAssemblyReference.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityDesigner.baml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityDesigner.g.cs
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design_MarkupCompile.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.g.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.Properties.Resources.resources
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csproj.GenerateResource.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csproj.CoreCompileInputs.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csproj.CopyComplete
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.pdb

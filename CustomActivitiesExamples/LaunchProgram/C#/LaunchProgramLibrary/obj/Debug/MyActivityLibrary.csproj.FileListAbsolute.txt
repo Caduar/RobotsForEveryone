@@ -1,0 +1,11 @@
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\MyActivityLibrary.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\MyActivityLibrary.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\obj\Debug\MyActivityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\obj\Debug\MyActivityLibrary.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\obj\Debug\MyActivityLibrary.pdb
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\FlaUI.Core.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\FlaUI.UIA3.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\FlaUI.Core.xml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\bin\Debug\FlaUI.UIA3.xml
+C:\Users\Ts\Downloads\Nuevo workflowrehosted\Limpio Custom Activity Designer\C#\MyActivityLibrary\obj\Debug\MyActivityLibrary.csproj.CopyComplete

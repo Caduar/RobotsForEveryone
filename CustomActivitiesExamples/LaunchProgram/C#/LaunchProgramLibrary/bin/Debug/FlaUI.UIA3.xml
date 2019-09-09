@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlaUI.UIA3</name>
+    </assembly>
+    <members>
+        <member name="M:FlaUI.UIA3.Converters.ValueConverter.ToNative(System.Object)">
+            <summary>
+            Converts the given object to an object the native client expects
+            </summary>
+        </member>
+        <member name="T:FlaUI.UIA3.Patterns.InvokePattern">
+            <summary>
+            Class for an UIA3 <see cref="T:FlaUI.Core.Patterns.IInvokePattern"/>.
+            </summary>
+        </member>
+        <member name="F:FlaUI.UIA3.Patterns.InvokePattern.Pattern">
+            <summary>
+            The <see cref="T:FlaUI.Core.Identifiers.PatternId"/> for this pattern.
+            </summary>
+        </member>
+        <member name="F:FlaUI.UIA3.Patterns.InvokePattern.InvokedEvent">
+            <summary>
+            The <see cref="T:FlaUI.Core.Identifiers.EventId"/> for the invoked event.
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.Patterns.InvokePattern.#ctor(FlaUI.Core.BasicAutomationElementBase,Interop.UIAutomationClient.IUIAutomationInvokePattern)">
+            <summary>
+            Creates an UIA3 <see cref="T:FlaUI.Core.Patterns.IInvokePattern"/>.
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.Patterns.InvokePattern.Invoke">
+            <inheritdoc />
+        </member>
+        <member name="T:FlaUI.UIA3.Patterns.InvokePatternEvents">
+            <summary>
+            Class for UIA3 <see cref="T:FlaUI.Core.Patterns.IInvokePatternEvents"/>.
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.Patterns.InvokePatternEvents.InvokedEvent">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.Patterns.ValuePattern.SetValue(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="T:FlaUI.UIA3.UIA3Automation">
+            <summary>
+            Automation implementation for UIA3
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3Automation.NativeAutomation">
+            <summary>
+            Native object for the ui automation
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3Automation.NativeAutomation2">
+            <summary>
+            Native object for Windows 8 automation
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3Automation.NativeAutomation3">
+            <summary>
+            Native object for Windows 8.1 automation
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3Automation.FromPoint(FlaUI.Core.Shapes.Point)">
+            <summary>
+            Creates an <see cref="T:FlaUI.Core.AutomationElements.Infrastructure.AutomationElement" /> from a given point
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3Automation.FromHandle(System.IntPtr)">
+            <summary>
+            Creates an <see cref="T:FlaUI.Core.AutomationElements.Infrastructure.AutomationElement" /> from a given windows handle (HWND)
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3Automation.InitializeAutomation">
+            <summary>
+            Initializes the automation object with the correct instance
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3Automation.GetAutomationAs``1">
+            <summary>
+            Tries to cast the automation to a specific interface.
+            Throws an exception if that is not possible.
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3BasicAutomationElement.Automation">
+            <summary>
+            Concrete implementation of the automation object
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3BasicAutomationElement.NativeElement">
+            <summary>
+            Native object for the ui element
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3BasicAutomationElement.NativeElement2">
+            <summary>
+            Native object for Windows 8 ui element
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3BasicAutomationElement.NativeElement3">
+            <summary>
+            Native object for Windows 8.1 ui element
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3BasicAutomationElement.FindAll(FlaUI.Core.Definitions.TreeScope,FlaUI.Core.Conditions.ConditionBase)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3BasicAutomationElement.FindFirst(FlaUI.Core.Definitions.TreeScope,FlaUI.Core.Conditions.ConditionBase)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3BasicAutomationElement.FindIndexed(FlaUI.Core.Definitions.TreeScope,System.Int32,FlaUI.Core.Conditions.ConditionBase)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3BasicAutomationElement.GetAutomationElementAs``1">
+            <summary>
+            Tries to cast the automation element to a specific interface.
+            Throws an exception if that is not possible.
+            </summary>
+        </member>
+        <member name="T:FlaUI.UIA3.UIA3TreeWalker">
+            <summary>
+            Class for a UIA3 tree walker.
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalker.#ctor(FlaUI.UIA3.UIA3Automation,Interop.UIAutomationClient.IUIAutomationTreeWalker)">
+            <summary>
+            Creates a UIA3 tree walker.
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3TreeWalker.Automation">
+            <summary>
+            The current <see cref="T:FlaUI.Core.AutomationBase"/> object.
+            </summary>
+        </member>
+        <member name="P:FlaUI.UIA3.UIA3TreeWalker.NativeTreeWalker">
+            <summary>
+            The native tree walker object.
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalker.GetParent(FlaUI.Core.AutomationElements.Infrastructure.AutomationElement)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalker.GetFirstChild(FlaUI.Core.AutomationElements.Infrastructure.AutomationElement)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalker.GetLastChild(FlaUI.Core.AutomationElements.Infrastructure.AutomationElement)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalker.GetNextSibling(FlaUI.Core.AutomationElements.Infrastructure.AutomationElement)">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalker.GetPreviousSibling(FlaUI.Core.AutomationElements.Infrastructure.AutomationElement)">
+            <inheritdoc />
+        </member>
+        <member name="T:FlaUI.UIA3.UIA3TreeWalkerFactory">
+            <summary>
+            Factory to create tree walkers for UIA3.
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalkerFactory.#ctor(FlaUI.UIA3.UIA3Automation)">
+            <summary>
+            Creates a UIA3 tree walker factory.
+            </summary>
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalkerFactory.GetControlViewWalker">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalkerFactory.GetContentViewWalker">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalkerFactory.GetRawViewWalker">
+            <inheritdoc />
+        </member>
+        <member name="M:FlaUI.UIA3.UIA3TreeWalkerFactory.GetCustomTreeWalker(FlaUI.Core.Conditions.ConditionBase)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
