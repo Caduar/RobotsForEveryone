@@ -33,5 +33,7 @@ Para crear actividades personalizadas consulta nuestra wiki:
 PD: para añadir la actividad y probar sin editar el código, solamente se da click en archivo, añadir referencia y escogemos el .dll que creamos, de forma inmediata lo veremos a un costado
 
 ![alt text](https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/A%C3%B1adir%20referencia.png)
+
 ![alt text](https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/Referencia%20a%C3%B1adida.PNG)
+
 ![alt text](https://github.com/Caduar/RobotsForEveryone/blob/master/ImgGuide/Seleccionar%20referencia.PNG)
